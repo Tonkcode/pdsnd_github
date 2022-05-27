@@ -1,3 +1,8 @@
+'''
+Analyze citywise bikeshare data to generate user, trip duration, station and time stats
+
+'''
+
 import time
 import pandas as pd
 import numpy as np
