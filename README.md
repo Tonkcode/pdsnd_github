@@ -1,5 +1,9 @@
 ### Date created
+<<<<<<< HEAD
 26-May-2022
+=======
+26-05-2022
+>>>>>>> ec3ad93 (Added project creation date)
 
 ### Project Title
 Analysis of Bikeshare data using python frmaeowkrs such as numpy and pandas
